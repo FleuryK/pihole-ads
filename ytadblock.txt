@@ -58,6 +58,8 @@ advertisment
 0.0.0.0 r6---sn-25ge7ns7.googlevideo.com
 0.0.0.0 r6---sn-25glene7.googlevideo.com
 0.0.0.0 r6---sn-25glen7l.googlevideo.com
+0.0.0.0 r6---sn-25glen7y.googlevideo.com
+0.0.0.0 r6---sn-25ge7nls.googlevideo.com
 0.0.0.0 r1.sn-25glene6.googlevideo.com
 0.0.0.0 r1.sn-8xp1vo-ab5s.googlevideo.com
 0.0.0.0 r1.sn-25ge7nsd.googlevideo.com
@@ -114,3 +116,5 @@ advertisment
 0.0.0.0 r6.sn-25ge7ns7.googlevideo.com
 0.0.0.0 r6.sn-25glene7.googlevideo.com
 0.0.0.0 r6.sn-25glen7l.googlevideo.com
+0.0.0.0 r6.sn-25glen7y.googlevideo.com
+0.0.0.0 r6.sn-25ge7nls.googlevideo.com
