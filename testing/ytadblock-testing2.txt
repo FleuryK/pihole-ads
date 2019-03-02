@@ -3,8 +3,8 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 www.youtube.com/api/stats/ads
-0.0.0.0 www.youtube.com/pagead
+# 0.0.0.0 www.youtube.com/api/stats/ads
+# 0.0.0.0 www.youtube.com/pagead
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 static.doubleclick.net
