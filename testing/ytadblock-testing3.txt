@@ -5,3 +5,10 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 www.youtube.com/api/stats/ads
 0.0.0.0 www.youtube.com/pagead
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 adservice.google.fr
+0.0.0.0 adservice.google.com
+0.0.0.0 gstaticadssl.l.google.com
