@@ -194,3 +194,7 @@ r3.sn-4g5ednsz.googlevideo.com
 r1.sn-8vq54vox2u-v2vz.googlevideo.com
 r7.sn-uxanug5-coxz.googlevideo.com
 r5.sn-oguesnzz.googlevideo.com
+r3---sn-i3belne6.googlevideo.com
+r3---sn-i3b7knlk.googlevideo.com
+r3.sn-i3belne6.googlevideo.com
+r3.sn-i3b7knlk.googlevideo.com
