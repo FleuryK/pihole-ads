@@ -1,15 +1,13 @@
-# main
-# advertisement
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 partnerad.l.doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 pagead-googlehosted.l.google.com
-0.0.0.0 adservice.google.fr
-0.0.0.0 adservice.google.com
-0.0.0.0 gstaticadssl.l.google.com
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+securepubads.g.doubleclick.net
+ad.doubleclick.net
+partnerad.l.doubleclick.net
+static.doubleclick.net
+pagead-googlehosted.l.google.com
+adservice.google.fr
+adservice.google.com
+gstaticadssl.l.google.com
 r3---sn-o097znlk.googlevideo.com
 r5---sn-n4v7knlk.googlevideo.com
 r5---sn-n4v7sn7y.googlevideo.com
