@@ -1,3 +1,3 @@
-##README for YouTube Ads
+#README for YouTube Ads
 
 Coming soon.
