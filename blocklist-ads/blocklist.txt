@@ -8,9 +8,11 @@ aligtr040.mmstat.com
 aligtr050.mmstat.com
 aligtr057.mmstat.com
 aligtr059.mmstat.com
+aligtr064.mmstat.com
 aligtr066.mmstat.com
 aligtr067.mmstat.com
 aligtr068.mmstat.com
+aligtr071.mmstat.com
 aligtr076.mmstat.com
 aligtr078.mmstat.com
 aligtr084.mmstat.com
