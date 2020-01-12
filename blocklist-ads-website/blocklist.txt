@@ -1,10 +1,14 @@
-# Blocklist Ads
+# Blocklist Ads and Websites
 53.com
 ad.aminopay.net
 aligtr006.mmstat.com
 aligtr009.mmstat.com
+aligtr010.mmstat.com
+aligtr013.mmstat.com
 aligtr022.mmstat.com
+aligtr029.mmstat.com
 aligtr030.mmstat.com
+aligtr032.mmstat.com
 aligtr033.mmstat.com
 aligtr034.mmstat.com
 aligtr040.mmstat.com
@@ -12,18 +16,22 @@ aligtr050.mmstat.com
 aligtr052.mmstat.com
 aligtr057.mmstat.com
 aligtr059.mmstat.com
+aligtr060.mmstat.com
 aligtr064.mmstat.com
 aligtr066.mmstat.com
 aligtr067.mmstat.com
 aligtr068.mmstat.com
 aligtr071.mmstat.com
 aligtr076.mmstat.com
+aligtr077.mmstat.com
 aligtr078.mmstat.com
 aligtr084.mmstat.com
 ally.com
 anp.valassisdigital.io
+anwalpress.com
 anz.com.au
 api-35-165-150-208.b2c.com
+api.wikibuy.com
 axisbank.com
 bancosantander.es
 bankmellat.ir
@@ -48,6 +56,7 @@ id.geistm.com
 japanpost.jp
 lacaixa.es
 mail.ru
+milantrend.com
 n8.cl
 nab.com.au
 odnoklassniki.ru
