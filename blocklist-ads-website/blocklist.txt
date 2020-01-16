@@ -33,6 +33,7 @@ anz.com.au
 api-35-165-150-208.b2c.com
 api.wikibuy.com
 axisbank.com
+baidu.com
 banco.bradesco
 bancobrasil.com.br
 bancosantander.es
@@ -80,7 +81,9 @@ pagseguro.com.br
 pagseguro.uol.com.br
 pallacanestroforli2015.it
 pindroptheatre.com
+pixel.kost.tv
 pnc.com
+qq.com
 santander.com.br
 santandernet.com.br
 schwab.com
@@ -109,5 +112,6 @@ www.monsiteassure.fr
 www.olx.ro
 www.posta-romana.ro
 www.shopbop.com
+www.zenaps.com
 yandex.ru
 zendesk.com
