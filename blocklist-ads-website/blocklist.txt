@@ -1,5 +1,7 @@
 # Blocklist Ads and Websites
 53.com
+98bvd.com
+a00.paypersale.ru
 ad.aminopay.net
 aligtr006.mmstat.com
 aligtr009.mmstat.com
@@ -54,6 +56,7 @@ cibc.com
 citibank.com
 citibank.com.br
 cloud.video.taobao.com
+colpirio.ibillboard.com
 commbank.com.au
 crcdn01.adnxs.com
 creditonebank.com
@@ -112,6 +115,7 @@ www.monsiteassure.fr
 www.olx.ro
 www.posta-romana.ro
 www.shopbop.com
+www.toner.fr
 www.zenaps.com
 yandex.ru
 zendesk.com
