@@ -1,5 +1,3 @@
- 
-
 # Wildcard blocking
 # The domains below need to beed added to your program as wildcard domains
 # ( without the # )
