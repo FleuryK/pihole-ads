@@ -1,15 +1,10 @@
 # Fake Sites for Discord Nitro
-discord-airdrop.com/gift/g8AUZwkbYNWAccyG
-discord-airdrop.com/friends/gift/nitro
-discord-airdrop.com/steam-nitro
-discorcl.click/gift/steam
-discorcl.click/gift092144
-discorcl.link/freenitro
-discord-nitro.link/gift092147
-discordnitro.info/nitr0/steam
+discord-airdrop.com
+discorcl.click
+discorcl.link
+discord-nitro.link
+discordnitro.info
 gavenitro.com
-steamnltros.ru/airdrop
-cyber-lan.com/nitro
-dlscord-app.com/gift/nitros.etc
-dlscord-app.com/nitro-steam.etc
-steamcommunity.com/tradeoffer/new/?partner=1016857285&token=H24219QWf4S
+steamnltros.ru
+cyber-lan.com
+dlscord-app.com
